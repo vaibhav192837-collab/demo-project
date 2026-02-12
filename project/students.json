@@ -1,0 +1,22 @@
+[
+    {
+        "name": "vaibhav bangalore",
+        "age": "21",
+        "course": "ece"
+    },
+    {
+        "name": "akash",
+        "age": "22",
+        "course": "acme"
+    },
+    {
+        "name": "prateek",
+        "age": "41",
+        "course": "cse"
+    },
+    {
+        "name": "akshay",
+        "age": "24",
+        "course": "eme"
+    }
+]
